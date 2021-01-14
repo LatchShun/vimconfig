@@ -29,6 +29,7 @@ set ruler
 
 " show number
 set number
+set relativenumber
 
 " highlight current line and column
 set cursorline
